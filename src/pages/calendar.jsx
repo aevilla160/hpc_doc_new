@@ -8,9 +8,8 @@ import Layout from '@theme/Layout';
 
 const HPCEventsCalendar = () => {
   const [events] = useState([
-    { title: 'HPC Kickoff', date: '2024-04-10' },
-    { title: 'HPC Workshop', date: '2024-05-15' },
-    { title: 'HPC Gathering', date: '2024-06-20' },
+   
+    { title: 'Cenval Symposium', date: '2025-03-05' },
   ]);
 
   return (
