@@ -175,7 +175,7 @@ const config = {
                 href: 'https://ucmerced.service-now.com/servicehub',
               },
               {
-                label: 'Zoom Office Hours (Fridays 11:30am-1pm PT)',
+                label: 'Zoom Office Hours (Wednesdays & Thursdays 10am-11am)',
                 href: 'https://ucmerced.zoom.us/j/89487493900',
               },
               {
